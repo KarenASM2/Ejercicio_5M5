@@ -55,6 +55,6 @@ fun main() {
 
     nuevaLista.addAll(crearNuevaLista(40))
 
-    mostrarLista(nuevaLista, "Lista con mayores de 40")
+    mostrarLista(nuevaLista, "Lista con mayores de 38")
 
 }
